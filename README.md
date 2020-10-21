@@ -1,11 +1,17 @@
+---
+marp: false
+---
+
 # Study Repository
 
-This is Repository for studying Computer Science
+This is Repository for improving my career
 
-## Repository List
+## Computer Science
 
 ### 1. Network
 
 #### Reference
 
 https://kentakang.com/133
+
+### 2. Marp for VS-code
