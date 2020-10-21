@@ -1,7 +1,3 @@
----
-marp: false
----
-
 # Study Repository
 
 This is Repository for improving my career
