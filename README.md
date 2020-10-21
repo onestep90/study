@@ -4,8 +4,8 @@ This is Repository for studying Computer Science
 
 ## Repository List
 
-- Network
+### Network
 
-  #### Reference
+#### Reference
 
-  https://kentakang.com/133
+https://kentakang.com/133
