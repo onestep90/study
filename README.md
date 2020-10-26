@@ -2,12 +2,16 @@
 
 This is Repository for improving my career
 
-## Computer Science
 
-### 1. Network
 
-#### Reference
+## 1. Network
 
+### Reference
 https://kentakang.com/133
 
-### 2. Marp for VS-code
+## 2. Marp for VS-code
+
+## 3. Java Script
+
+### Reference
+https://poiemaweb.com/js-hello-world
