@@ -1,7 +1,7 @@
 # Git CLI Cheet Sheet
 
 ## Contents
-[1. Excluding Version Control](excluding-version-control)
+[1. Excluding Version Control](##-excluding-version-control)
 ## Excluding Version Control
 ### before add & commit
 * git ignore file 생성
