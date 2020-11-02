@@ -1,6 +1,8 @@
 # Git CLI Cheet Sheet
 
-## 버전관리 제외
+## Contents
+[1. Excluding version control](버전관리-제외)
+## 버전관리-제외
 ### before add & commit
 * git ignore file 생성
     ``` zsh
