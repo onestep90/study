@@ -1,6 +1,6 @@
 # Study Repository
 
-This is Repository for improving my career
+This is Repository for improving myself
 
 ## Contents
 1. Network
