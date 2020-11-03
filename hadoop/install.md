@@ -1,13 +1,15 @@
 # Hadoop
 ## 1. Env
 * Ubuntu linux 20.04
-## 2. Contents
+* Hadoop 3.2.1 (stable)
+## 2. Install Sequence
 1. Install OpenJDK on Ubuntu
 2. Set Up a Non-Root User for Hadoop Environment
 3. Download and Install Hadoop on Ubuntu
 4. Single Node Hadoop Deployment (Pseudo-Distributed Mode)
-
-
+## 3. Ref
+*  https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
+* https://phoenixnap.com/kb/install-hadoop-ubuntu<br><br><br>
 
 # Install Sequence
 ## 1. Install OpenJDK on Ubuntu
@@ -45,6 +47,3 @@ ssh localhost
 
 ## 4. Single Node Hadoop Deployment (Pseudo-Distributed Mode)
 
-# Ref
-*  https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
-* https://phoenixnap.com/kb/install-hadoop-ubuntu
