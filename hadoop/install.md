@@ -10,8 +10,10 @@
 ```zsh
 # Update apt
 sudo apt update
+
 # Install open jdk
 sudo apt install openjdk-8-jdk -y
+
 # Check installing java has been complete
 java -version; javac -version
 ```
@@ -21,13 +23,16 @@ java -version; javac -version
 ```zsh
 # Install openssh server&client
 sudo apt install openssh-server openssh-client -y
+
 # Create non-root user(hdoop) for hadoop
 sudo adduser hdoop
 sudo usermod -a -G sudo hdoop # add sudo authority
 su hdoop
+
 # Enable Passwordless SSH for Hadoop User
 ssh-keygen -t rsa -P '' -f ~/.ssh/id_rsa
 cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+
 # Change mode so that only owner can read&write 
 chmod 0600 ~/.ssh/authorized_keys
 ssh localhost
