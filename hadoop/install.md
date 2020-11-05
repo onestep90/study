@@ -44,6 +44,12 @@ chmod 0600 ~/.ssh/authorized_keys
 ssh localhost
 ```
 ## 3. Download and Install Hadoop on Ubuntu From Hadoop Official Web Page
+![hadoop_officialweb](./img/hadoop_officialweb.png)
+```zsh
+# Binary download for Hadoop Version 3.2.1
+wget https://downloads.apache.org/hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz
 
+tar xzf hadoop-3.2.1.tar.gz
+```
 ## 4. Single Node Hadoop Deployment (Pseudo-Distributed Mode)
 
