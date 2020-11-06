@@ -4,6 +4,7 @@ endif
 
 set autoindent
 set cindent
+set si
 
 set nu
 
