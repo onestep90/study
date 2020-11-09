@@ -7,7 +7,8 @@ This is Repository for improving myself
 ### 1. Network
 ### 2. Marp for VS-code
 ### 3. Java Script
-### 4. [Git](./git/)
+### 4. Git
+* [CLI Cheet-Sheet](./git/cheet-sheet.md)
 ### 5. hadoop
 * [Single Node Hadoop Deployment(Pseudo-Distributed Mode)](./hdoop/single-node/install.md)
 
