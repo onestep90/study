@@ -9,6 +9,7 @@ This is Repository for improving myself
 ### 3. Java Script
 ### 4. [Git](./git/)
 ### 5. hadoop
+* [Single Node Hadoop Deployment(Pseudo-Distributed Mode)](./hdoop/single-node/install.md)
 
 <!-- ## 1. Network
 
