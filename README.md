@@ -1,4 +1,4 @@
-# Study Repository
+#Study Repository
 
 This is Repository for improving myself
 
@@ -9,8 +9,9 @@ This is Repository for improving myself
 ### 3. Java Script
 ### 4. Git
 * [CLI Cheet-Sheet](./git/cheet-sheet.md)
-### 5. hadoop
+### 5. Hadoop
 * [Single Node Hadoop Deployment(Pseudo-Distributed Mode)](./hdoop/single-node/install.md)
+### 6. DotNet Core
 
 <!-- ## 1. Network
 
